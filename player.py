@@ -1,7 +1,7 @@
 from math import sin
 import time
 from image_show import *
-from test import *
+# from test import *
 from easygui import *
 import pygame as pg
 from settings import *
