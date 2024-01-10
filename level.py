@@ -3,7 +3,7 @@ import pygame as pg
 from settings import *
 from tile import Tile
 from player import Player
-from debug import *
+# from debug import *
 from support import *
 from random import choice
 from TH_terminal import *
@@ -71,7 +71,7 @@ class Level:
         self.visible_sprites.custom_draw(self.player)
         self.visible_sprites.update()
         # debug(self.player.status) 
-        debug(self.player.score)
+        # debug(self.player.score)
         
         
                     

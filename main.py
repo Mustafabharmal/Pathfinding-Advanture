@@ -108,11 +108,11 @@ class Game:
    
 
 if __name__ == '__main__':
-    m = Menu()
+    # m = Menu()
     pygame.mixer.init()
     pygame.mixer.music.load('audio/menu_sound.mpeg')
     pygame.mixer.music.play(-1)
-    m.create_menu()
+    # m.create_menu()
     pygame.mixer.music.stop()
 
     game = Game()
