@@ -81,4 +81,14 @@ The Treasure Hunt game is developed using Python and several key libraries for d
 
 These libraries collectively contribute to the functionality and aesthetics of the Treasure Hunt game, providing an engaging and educational gaming experience.
 
+## Copyright Information 🇮🇳
+
+**This project is Copyrighted by the Govt. of India 📜**
+
+Explore the Certificate: [Copyright Certificate](Document/6606-2023-CO-SW-CopyRightCertificate.pdf)
+
+🚫 Unauthorized use, reproduction, or distribution is strictly prohibited without permission from the authorities.
+
+Your respect for intellectual property is appreciated! 🙏
+
 ## Enjoy the Treasure Hunt adventure! 🌟
